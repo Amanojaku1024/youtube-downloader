@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.sqlite3*
+*.log
+.env*
+staging/
+reports/
+build-cache/
+NativeUI.app/
+*.mp3
+*.m4a
+*.webm
+*.part
+logs/
+config.json
+library.sqlite3*
